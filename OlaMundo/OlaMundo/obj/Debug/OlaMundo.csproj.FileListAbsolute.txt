@@ -1,0 +1,10 @@
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.frmOlaMundo.resources
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.cache
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\victor.ssosorio\source\repos\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
